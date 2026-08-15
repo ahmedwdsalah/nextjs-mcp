@@ -11,7 +11,7 @@ from fnmatch import fnmatch
 from pathlib import Path
 from typing import Any, Dict, List
 
-ROOT = Path("/Users/ahmed/Downloads/Next.js-Docs")
+ROOT = Path("/Users/ahmed/nextjs-mcp")
 DOCS_DIR = ROOT  # Docs are at root (01-app/, 02-pages/, etc.)
 MAX_SEARCH_LIMIT = 200
 DEFAULT_SEARCH_LIMIT = 25
